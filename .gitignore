@@ -1,0 +1,7 @@
+.*.swp
+.*.swo
+*~
+*.bak
+*.orig
+*.diff
+node_modules/
