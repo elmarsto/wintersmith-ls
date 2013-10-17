@@ -5,6 +5,17 @@
     "name": "Elizabeth Marston",
     "email": "beth@undoware.ca"
   },
+  "contributors": [
+    {
+      "name": "Jon Wong",
+      "email": "j@jnwng.com"
+    },
+    {
+      "name": "Johan Nordberg",
+      "email": "hi@johan-norberg.com"
+
+    }
+  ],
   "description": "livescript plugin for wintersmith",
   "keywords": [
     "wintersmith-plugin",
@@ -17,7 +28,7 @@
   "license": "MIT",
   "dependencies": {
     "async": ">=0.0.1",
-    "LiveScript": ">=1.2.x"
+    "LiveScript": ">=1.2.0"
   },
   "devDependencies": {
     "wintersmith": ">=2.0.0"
