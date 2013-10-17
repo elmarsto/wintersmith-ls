@@ -2,7 +2,7 @@
 
 [LiveScript](http://livescript.net/) plugin for [wintersmith](https://github.com/jnordberg/wintersmith).
 
-Translated to LiveScript by Elizabeth Marston. Original code by Jon 
+Translated to LiveScript by Elizabeth Marston. Original code by Jon Wong.
 
 ### install:
 
@@ -20,4 +20,5 @@ then add `./node_modules/wintersmith-ls/` to `config.json` like:
         "wintersmith-ls"
       ]
     ....
+
 
