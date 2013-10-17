@@ -1,7 +1,6 @@
 /* Adapted by Elizabeth Marston from npm://wintersmith-stylus, which in turn is by Jon Wong. (c) 2013 MIT License */
 
 require! {
-  async
   fs
   ls: LiveScript
 }

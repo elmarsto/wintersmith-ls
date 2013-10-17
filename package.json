@@ -1,6 +1,6 @@
 {
   "name": "wintersmith-ls",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": {
     "name": "Elizabeth Marston",
     "email": "beth@undoware.ca"
@@ -16,6 +16,12 @@
 
     }
   ],
+  "repository":
+   { "type": "git",
+     "url": "git://github.com/undoware/wintersmith-ls.git" },
+  "homepage": "http://github.com/undoware/wintersmith-ls/",
+  "bugs": { "url": "http://github.com/undoware/wintrsmith-ls/issues" },
+
   "description": "livescript plugin for wintersmith",
   "keywords": [
     "wintersmith-plugin",
@@ -27,7 +33,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "async": ">=0.0.1",
     "LiveScript": ">=1.2.0"
   },
   "devDependencies": {
