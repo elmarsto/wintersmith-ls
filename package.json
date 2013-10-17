@@ -1,0 +1,28 @@
+{
+  "name": "wintersmith-ls",
+  "version":        "0.0.1",
+  "author": {
+    "name": "Elizabeth Marston",
+    "email": "beth@undoware.ca"
+  },
+  "description": "livescript plugin for wintersmith"
+  "keywords": [
+    "wintersmith-plugin"
+    "livescript"
+    "LiveScript"
+    "wintersmith-livescript"
+    "wintersmith-LiveScript"
+    "wintersmith-ls"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "async":        ">= 0.0.1",
+    "LiveScript":   ">=1.2.x"
+  },
+  "devDependencies": {
+    "wintersmith":  ">=2.0.0",
+  },
+  "readmeFilename": "readme.md",
+  "_id": "wintersmith-ls@0.0.1",
+  "_from": "wintersmith-ls@"
+}
