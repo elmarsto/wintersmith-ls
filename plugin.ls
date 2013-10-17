@@ -20,6 +20,6 @@ module.exports = (env, done) ->
       if e
         callback e
       else
-        callback null new Wsls filepath r.to-string!
+        callback null new Wsls(filepath, r.to-string!)
   env.register-content-plugin 'scripts' '**/*.ls' Wsls
   done!
